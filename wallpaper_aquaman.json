@@ -1,81 +1,94 @@
+{ "Wallpapers": [
+
 {
-    "Categories": 
-        [ {
-                "name": "Aquaman"
-            }
-			],
-	"Wallpapers":
-	[
-		
-	{
-		"name": "Aquaman 1",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4854/45677701954_c66cc07993_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4854/45677701954_c66cc07993_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 2",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4906/31461630937_2e64d929ae_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4906/31461630937_2e64d929ae_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 3",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4881/46350300392_8eeb3772c5_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4881/46350300392_8eeb3772c5_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 4",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4808/45677704564_6b3feb2d01_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4808/45677704564_6b3feb2d01_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 5",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4830/46350297152_fd8878cbd4_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4830/46350297152_fd8878cbd4_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 6",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4863/45488586115_094c064485_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4863/45488586115_094c064485_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 7",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4823/45488584845_df4963a3cb_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4823/45488584845_df4963a3cb_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 1",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4905/31461628317_9a81ef5cba_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4905/31461628317_9a81ef5cba_o.jpg",
-		"category": "Aquaman",
-	},
-	{
-		"name": "Aquaman 8",
-		"author": "KanalitnuK",
-		"url": "https://c1.staticflickr.com/5/4855/46350293162_65ea2a9b80_o.jpg",
-		"thumbUrl": "https://c1.staticflickr.com/5/4855/46350293162_65ea2a9b80_o.jpg",
-		"category": "Aquaman",
-	}
-]
+"name": "Aquaman 1",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4854/45677701954_c66cc07993_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4854/45677701954_c66cc07993_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 2",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4906/31461630937_2e64d929ae_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4906/31461630937_2e64d929ae_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 3",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4881/46350300392_8eeb3772c5_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4881/46350300392_8eeb3772c5_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 4",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4808/45677704564_6b3feb2d01_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4808/45677704564_6b3feb2d01_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 5",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4830/46350297152_fd8878cbd4_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4830/46350297152_fd8878cbd4_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 6",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4863/45488586115_094c064485_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4863/45488586115_094c064485_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 7",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4823/45488584845_df4963a3cb_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4823/45488584845_df4963a3cb_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 1",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4905/31461628317_9a81ef5cba_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4905/31461628317_9a81ef5cba_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+"name": "Aquaman 8",
+"author": "KanalitnuK",
+"url": "https://c1.staticflickr.com/5/4855/46350293162_65ea2a9b80_o.jpg",
+"thumbnail": "https://c1.staticflickr.com/5/4855/46350293162_65ea2a9b80_o.jpg",
+"collections": "Aquaman",
+"downloadable": true,
+"dimensions": "1080 x 1920 px",
+"copyright": "CreativeCommons Attribution-ShareALike"
 }
-
-
-
-
-
-
-
+]
+{
